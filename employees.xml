@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <personalInformation>
+            <firstName>Muskan</firstName>
+            <lastName>Gupta</lastName>
+            <dateOfBirth>2000-05-03</dateOfBirth>
+            <gender>Female</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Software Engineer</position>
+            <salary>80000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>muskan.gupta@gmail.com</email>
+            <phoneNumber>123-456-7890</phoneNumber>
+        </contactInformation>
+    </employee>
+    <employee>
+        <personalInformation>
+            <firstName>Anshika</firstName>
+            <lastName>Yadav</lastName>
+            <dateOfBirth>2001-12-26</dateOfBirth>
+            <gender>Female</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Marketing Manager</position>
+            <salary>75000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>anshika.yadav@gmail.com</email>
+            <phoneNumber>987-654-3210</phoneNumber>
+        </contactInformation>
+    </employee>
+    <employee>
+        <personalInformation>
+            <firstName>Shikha</firstName>
+            <lastName>Agrawal</lastName>
+            <dateOfBirth>2002-08-25</dateOfBirth>
+            <gender>Female</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Project Manager</position>
+            <salary>90000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>shikha.agrawal@gmail.com</email>
+            <phoneNumber>555-123-4567</phoneNumber>
+        </contactInformation>
+    </employee>
+</employees>
