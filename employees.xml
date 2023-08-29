@@ -48,4 +48,51 @@
             <phoneNumber>555-123-4567</phoneNumber>
         </contactInformation>
     </employee>
+    <employee id="4">
+        <personalInformation>
+            <firstName>Aryan</firstName>
+            <lastName>Majhi</lastName>
+            <dateOfBirth>2001-08-20</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Product Manager</position>
+            <salary>90000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>aryan.majhi@gmail.com</email>
+            <phoneNumber>555-123-4567</phoneNumber>
+        </contactInformation>
+    </employee>
+    <employee id="5">
+        <personalInformation>
+            <firstName>Anupam</firstName>
+            <lastName>Kumar</lastName>
+            <dateOfBirth>2002-08-25</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Sales Manage</position>
+            <salary>90000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>anupam.kumar@gmail.com</email>
+            <phoneNumber>555-123-2647</phoneNumber>
+        </contactInformation>
+    </employee><employee id="6">
+        <personalInformation>
+            <firstName>Argha</firstName>
+            <lastName>Dutta</lastName>
+            <dateOfBirth>1999-01-25</dateOfBirth>
+            <gender>Male</gender>
+        </personalInformation>
+        <employmentInformation>
+            <position>Production Lead Architect</position>
+            <salary>90000</salary>
+        </employmentInformation>
+        <contactInformation>
+            <email>argha.dutta@gmail.com</email>
+            <phoneNumber>555-123-4567</phoneNumber>
+        </contactInformation>
+    </employee>
 </employees>
